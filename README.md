@@ -12,6 +12,6 @@ bash compete.sh 5 // how many rounds with each .so you want to play
 python stat.py
 ```
 
-Output example<img src="C:\Users\Richard.S\AppData\Roaming\Typora\typora-user-images\image-20220608235736404.png" alt="image-20220608235736404" style="zoom:30%;" />
+Output example<img src="https://github.com/RichardS0268/Connect4/blob/main/output_example.png" alt="image-20220608235736404" style="zoom:30%;" />
 
 
