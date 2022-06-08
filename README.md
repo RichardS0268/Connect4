@@ -2,7 +2,7 @@
 
 ## Description
 
-Using MCTS and UCT algorithms to play Connect 4 (The rules are a little bit different. [More details](https://docs.saiblo.net/games/connect4/connect4.html)). Evaluation is based on competition results existing `.so` in `./TestCases`.
+Using MCTS and UCT algorithms play Connect 4 (The rules are a little bit different. [More details](https://docs.saiblo.net/games/connect4/connect4.html)). Evaluation is based on competition results with existing `.so` in `./TestCases`.
 
 ## Inference
 
