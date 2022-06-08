@@ -1,4 +1,4 @@
-# Connect4 
+# Connect4 <img src="https://github.com/RichardS0268/Connect4/blob/main/connect4.png" style="zoom:10%;" />
 
 ## Description
 
