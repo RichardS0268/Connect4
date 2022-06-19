@@ -1,4 +1,4 @@
-# Connect4 <img src="https://github.com/RichardS0268/Connect4/blob/main/connect4.png" height=50px; />
+# <img src="https://github.com/RichardS0268/Connect4/blob/main/connect4.png" height=50px; />Connect4 
 
 ## Description
 
